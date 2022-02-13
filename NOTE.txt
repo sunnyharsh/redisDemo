@@ -1,0 +1,3 @@
+we use set and setex for different purpose
+* set we use for set value in key and value pair 
+* setex we are using set value in key and as well as time expirtion of particuler key
