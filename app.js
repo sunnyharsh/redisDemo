@@ -12,5 +12,5 @@ const PORT=1234
 app.use('/', adminRoutes)
 
 app.listen(PORT, ()=>{
-    console.log(`server connect on ${PORT}`)
+    console.log(`server connect on ${PORT} 🔥`)
 })
